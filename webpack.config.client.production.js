@@ -8,9 +8,9 @@ const config = {
         path.join(CURRENT_WORKING_DIR, 'client/main.js')
     ],
     output: {
-        path: path.join(CURRENT_WORKING_DIR, '/dist'),
+        path: path.join(CURRENT_WORKING_DIR, '/docs'),
         filename: 'bundle.js',
-        publicPath: "/dist/"
+        publicPath: "/docs/"
     },
     module: {
         rules: [{

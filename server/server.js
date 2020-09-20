@@ -9,7 +9,7 @@ app.listen(config.port, (err) => {
 
 import path from 'path'
 const CURRENT_WORKING_DIR = process.cwd()
-app.use('/dist', express.static(path.join(CURRENT_WORKING_DIR, 'dist')))
+app.use('/docs', express.static(path.join(CURRENT_WORKING_DIR, 'dist')))
 
 
 import devBundle from './devBundle'
