@@ -18,6 +18,8 @@ function App() {
         >
           Learn React
         </a>
+        <p>nametable's website</p>
+        <p>Your computer says the time is {Date.now().toString()}</p>
       </header>
     </div>
   );
