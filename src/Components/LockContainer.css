@@ -10,14 +10,19 @@
 }
 
 #lock-password-input {
-    position: absolute;
+    /*position: relative;*/
     /*z-index: 10;*/
-    top: 20px;
-    left: 20px;
+    /*top: 20px;*/
+    /*left: 20px;*/
 }
 
 .lock-overlay {
+    -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+    padding: 20px;
+    text-align: left;
     position: absolute;
+    overflow: hidden;
     /*top: -50px;*/
     /*left: 200px;*/
     /*height: 200px;*/
