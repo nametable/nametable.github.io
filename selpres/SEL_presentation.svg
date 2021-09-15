@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   sodipodi:docname="SEL_presentation.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   id="svg5"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:ns0="http://sozi.baierouge.fr">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="40.96"
+     inkscape:cx="-91.369629"
+     inkscape:cy="1052.71"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="1080"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#00ff00;stroke:#000000;stroke-width:1.23787;stroke-linecap:round;stroke-linejoin:round"
+       id="rect31"
+       width="234.63829"
+       height="321.08887"
+       x="-13.56603"
+       y="-18.305357"
+       ry="1.1126182" />
+    <a
+       id="a7428"
+       xlink:href="https://google.com">
+      <ellipse
+         style="fill:#ff0000;stroke:#000000;stroke-width:1.21172;stroke-linecap:round;stroke-linejoin:round"
+         id="path135"
+         cx="-14.955791"
+         cy="75.840569"
+         rx="22.937695"
+         ry="23.891092" />
+    </a>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="-29.420414"
+       y="73.369759"
+       id="text1990"><tspan
+         sodipodi:role="line"
+         id="tspan1988"
+         style="stroke-width:0.264583"
+         x="-29.420414"
+         y="73.369759">Hey!</tspan></text>
+    <image
+       width="105.30417"
+       height="126.47083"
+       preserveAspectRatio="none"
+       xlink:href="donald.gif"
+       id="image5646"
+       x="13.646205"
+       y="40.67955"
+       onclick="alert('herro')" />
+    <g
+       id="g6498"
+       transform="translate(23.493946,864.64722)">
+      <title
+         id="title6533">Flight Video</title>
+      <rect
+         x="-960"
+         y="-540"
+         width="1920"
+         height="1080"
+         stroke="none"
+         fill="#aaaaaa"
+         id="rect6496">
+        <ns0:video
+           ns0:type="video/mp4"
+           ns0:src="./short_flight.mp4"
+           ns0:loop="false"
+           ns0:controls="false"
+           ns0:start-frame="vid_frame"
+           ns0:stop-frame="stop_vid_frame" />
+      </rect>
+    </g>
+    <a
+       id="a7162"
+       xlink:href="#vid_frame"
+       style="fill:#ffff00">
+      <g
+         sodipodi:type="inkscape:box3d"
+         id="g7068"
+         style="fill:#ffff00;stroke:#000000;stroke-width:4.40315;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:perspectiveID="#perspective7066"
+         inkscape:corner0="-0.31210017 : 0.14989149 : 0 : 1"
+         inkscape:corner7="-0.38425805 : 0.13811974 : 0.25 : 1">
+        <path
+           sodipodi:type="inkscape:box3dside"
+           id="path7080"
+           style="fill:#ffff00;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+           inkscape:box3dsidetype="11"
+           d="m 150.1587,42.984416 13.9965,-8.921456 v 13.597296 l -13.9965,7.87534 z"
+           points="164.1552,34.06296 164.1552,47.660256 150.1587,55.535596 150.1587,42.984416 " />
+        <path
+           sodipodi:type="inkscape:box3dside"
+           id="path7070"
+           style="fill:#ffff00;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+           inkscape:box3dsidetype="6"
+           d="M 134.86883,4.0839126 V 21.196505 l 15.28987,34.339091 v -12.55118 z"
+           points="134.86883,21.196505 150.1587,55.535596 150.1587,42.984416 134.86883,4.0839126 " />
+        <path
+           sodipodi:type="inkscape:box3dside"
+           id="path7072"
+           style="fill:#ffff00;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+           inkscape:box3dsidetype="5"
+           d="M 134.86883,4.0839126 152.7563,-13.018473 164.1552,34.06296 150.1587,42.984416 Z"
+           points="152.7563,-13.018473 164.1552,34.06296 150.1587,42.984416 134.86883,4.0839126 " />
+        <path
+           sodipodi:type="inkscape:box3dside"
+           id="path7078"
+           style="fill:#ffff00;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+           inkscape:box3dsidetype="13"
+           d="M 134.86883,21.196505 152.7563,6.0995191 164.1552,47.660256 150.1587,55.535596 Z"
+           points="152.7563,6.0995191 164.1552,47.660256 150.1587,55.535596 134.86883,21.196505 " />
+        <path
+           sodipodi:type="inkscape:box3dside"
+           id="path7076"
+           style="fill:#ffff00;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+           inkscape:box3dsidetype="14"
+           d="M 152.7563,-13.018473 V 6.0995191 L 164.1552,47.660256 V 34.06296 Z"
+           points="152.7563,6.0995191 164.1552,47.660256 164.1552,34.06296 152.7563,-13.018473 " />
+        <path
+           sodipodi:type="inkscape:box3dside"
+           id="path7074"
+           style="fill:#ffff00;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+           inkscape:box3dsidetype="3"
+           d="M 134.86883,4.0839126 152.7563,-13.018473 V 6.0995191 L 134.86883,21.196505 Z"
+           points="152.7563,-13.018473 152.7563,6.0995191 134.86883,21.196505 134.86883,4.0839126 " />
+      </g>
+    </a>
+    <a
+       id="a7359"
+       xlink:href="#stop_vid_frame"
+       transform="translate(34.415118,-32.870417)">
+      <ellipse
+         style="fill:#ffff00;stroke:#000000;stroke-width:1.165;stroke-linecap:round;stroke-linejoin:round"
+         id="path7277"
+         cx="936.93762"
+         cy="372.1868"
+         rx="26.629854"
+         ry="27.527252" />
+    </a>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Foreground">
+    <path
+       sodipodi:type="star"
+       style="fill:#ff00ff;stroke:#000000;stroke-width:4.40315;stroke-linecap:round;stroke-linejoin:round"
+       id="path7501"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="22.469711"
+       sodipodi:cy="914.93781"
+       sodipodi:r1="195.52602"
+       sodipodi:r2="97.763016"
+       sodipodi:arg1="-2.761896"
+       sodipodi:arg2="-2.1335775"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -159.13038,842.46829 129.439563,-10.21595 64.965622,-112.42079 49.714969,119.94743 126.994006,27.04604 -98.71402,84.34754 13.521,129.13614 -110.723593,-67.8178 -118.637577,52.7645 30.283079,-126.2612 z"
+       transform="scale(0.26458333)"
+       inkscape:transform-center-x="-1.046954"
+       inkscape:transform-center-y="-3.9337401" />
+    <text
+       xml:space="preserve"
+       style="font-size:0.846839px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;stroke-width:0.021171"
+       x="-119.16766"
+       y="-253.44743"
+       id="text12824"
+       transform="rotate(-150)"><tspan
+         sodipodi:role="line"
+         id="tspan12822"
+         style="stroke-width:0.021171"
+         x="-119.16766"
+         y="-253.44743">Pasta</tspan></text>
+  </g>
+</svg>
